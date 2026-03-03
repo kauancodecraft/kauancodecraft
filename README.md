@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou o Kauan Paschoal!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Cloud%20Architect%20&%20Full%20Stack%20Developer&fontSize=45&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Cloud%20Computing%20&%20Full%20Stack%20Developer&fontSize=45&animation=fadeIn&fontAlignY=35" />
 </div>
 
 ---
